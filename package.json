@@ -1,0 +1,42 @@
+{
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
+  "hexo": {
+    "version": "7.3.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.9.0",
+    "browser-sync": "^3.0.3",
+    "chokidar": "^3.6.0",
+    "hexo": "^7.3.0",
+    "hexo-pro": "file:../hexo-pro-client/hexo-pro",
+    "hexo-deployer-git": "^4.0.0",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^4.0.0",
+    "hexo-generator-search": "^2.4.3",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-postcss": "^2.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^6.3.0",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-landscape": "^1.0.0",
+    "nib": "^1.2.0",
+    "postcss": "^8.4.49",
+    "postcss-import": "^16.1.0",
+    "postcss-load-config": "^6.0.1",
+    "postcss-styl": "^0.12.3",
+    "postcss-stylus": "^0.0.1",
+    "stylus": "^0.64.0",
+    "tailwindcss": "^3.4.16"
+  }
+}
