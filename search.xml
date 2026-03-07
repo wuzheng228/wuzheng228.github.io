@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>wz测试新建文章 (1749991215207)9999</title>
+      <link href="/2025/06/15/wz%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0-1749991215207-9999/"/>
+      <url>/2025/06/15/wz%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0-1749991215207-9999/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>wz测试新建文章</title>
+      <link href="/2025/06/15/wz%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/06/15/wz%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">**安全警告 — 请仔细阅读。**</span><br><span class="line"></span><br><span class="line">OpenClaw 是一个业余项目，目前仍处于测试阶段。请做好可能遇到问题的准备。  </span><br><span class="line">默认情况下，OpenClaw 是一个个人助手：其信任边界仅限于一位受信任的操作者。  </span><br><span class="line">如果启用了工具，此机器人可以读取文件并执行操作。  </span><br><span class="line">不当的指令可能会诱使它执行不安全的行为。</span><br><span class="line"></span><br><span class="line">默认情况下，OpenClaw **不** 是一个具备防御性的多租户边界。  </span><br><span class="line">如果多个用户可以向一个启用了工具的助手发送消息，那么他们将共享该被委托的工具权限。</span><br><span class="line"></span><br><span class="line">如果您对安全加固和访问控制不熟悉，请不要运行 OpenClaw。  </span><br><span class="line">在启用工具或将其暴露到互联网之前，请先寻求有经验人士的帮助。</span><br><span class="line"></span><br><span class="line">**推荐的基线措施：**</span><br><span class="line">*   配对/白名单 + 提及门控。</span><br><span class="line">*   多用户/共享收件箱：分割信任边界（使用独立的网关/凭据，最好使用独立的操作系统用户/主机）。</span><br><span class="line">*   沙箱 + 最小权限工具。</span><br><span class="line">*   共享收件箱：隔离私信会话 (`session.dmScope: per-channel-peer`)，并保持工具访问权限最小化。</span><br><span class="line">*   将机密信息置于助手可访问的文件系统之外。</span><br><span class="line">*   对于任何配备工具或拥有不受信任收件箱的机器人，请使用能力最强的可用模型。</span><br><span class="line"></span><br><span class="line">**定期运行：**</span><br></pre></td></tr></table></figure><p>openclaw security audit –deep<br>openclaw security audit –fix</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">**必须阅读：** https://docs.openclaw.ai/gateway/security</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mutiagent (1746854308243)</title>
+      <link href="/2025/05/10/mutiagent-1746854308243/"/>
+      <url>/2025/05/10/mutiagent-1746854308243/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mutiagent123 4324 (1746854287998)</title>
+      <link href="/2025/05/10/mutiagent123-4324-1746854287998/"/>
+      <url>/2025/05/10/mutiagent123-4324-1746854287998/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试ccece&#39;s测试1</title>
+      <link href="/2025/04/12/%E6%B5%8B%E8%AF%95ccece-s%E6%B5%8B%E8%AF%951/"/>
+      <url>/2025/04/12/%E6%B5%8B%E8%AF%95ccece-s%E6%B5%8B%E8%AF%951/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/%E5%89%91%E6%8C%87offer018.png" alt="剑指offer018.png"></p><p>123213</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AIagent9</title>
+      <link href="/2025/04/12/AIagent9/"/>
+      <url>/2025/04/12/AIagent9/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/b.jpg_1745161690417.jpeg" alt="b.jpg"></p><p><img src="/images/932656e8-ab6d-4b7f-916d-44a6492e2589.webp" alt="932656e8-ab6d-4b7f-916d-44a6492e2589.webp"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试9</title>
+      <link href="/2025/04/12/%E6%B5%8B%E8%AF%959/"/>
+      <url>/2025/04/12/%E6%B5%8B%E8%AF%959/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/b.jpg_1745161690417.jpeg" alt="1.00"></p><p><img src="/images/932656e8-ab6d-4b7f-916d-44a6492e2589.webp" alt="1.00"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AIagent421333333</title>
+      <link href="/2025/04/12/AIagent421333333/"/>
+      <url>/2025/04/12/AIagent421333333/</url>
+      
+        <content type="html"><![CDATA[<p>12312</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>12312</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AIagent3</title>
+      <link href="/2025/04/12/AIagent3/"/>
+      <url>/2025/04/12/AIagent3/</url>
+      
+        <content type="html"><![CDATA[<p>3123123213</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>10</title>
+      <link href="/10/index.html"/>
+      <url>/10/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>12</title>
+      <link href="/12/index.html"/>
+      <url>/12/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>123</title>
+      <link href="/123/index.html"/>
+      <url>/123/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>1234</title>
+      <link href="/1234/index.html"/>
+      <url>/1234/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>12345</title>
+      <link href="/12345/index.html"/>
+      <url>/12345/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>123456</title>
+      <link href="/123456/index.html"/>
+      <url>/123456/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>1234567</title>
+      <link href="/1234567/index.html"/>
+      <url>/1234567/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>12345678</title>
+      <link href="/12345678/index.html"/>
+      <url>/12345678/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>123456789</title>
+      <link href="/123456789/index.html"/>
+      <url>/123456789/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>wz测试page</title>
+      <link href="/wz%E6%B5%8B%E8%AF%95page/index.html"/>
+      <url>/wz%E6%B5%8B%E8%AF%95page/index.html</url>
+      
+        <content type="html"><![CDATA[<p>123123123123</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>10</title>
+      <link href="/%E4%B8%AD%E5%9B%BD/index.html"/>
+      <url>/%E4%B8%AD%E5%9B%BD/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国 (1746413469640)</title>
+      <link href="/%E4%B8%AD%E5%9B%BD%20(1746413469640)/index.html"/>
+      <url>/%E4%B8%AD%E5%9B%BD%20(1746413469640)/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国(1746413564855)</title>
+      <link href="/%E4%B8%AD%E5%9B%BD(1746413564855)/index.html"/>
+      <url>/%E4%B8%AD%E5%9B%BD(1746413564855)/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国1746854579791123213999</title>
+      <link href="/%E4%B8%AD%E5%9B%BD1746854579791/index.html"/>
+      <url>/%E4%B8%AD%E5%9B%BD1746854579791/index.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/image_1748151731509.png" alt="image.png"></p><p><a href="http://localhost:8081/">http://localhost:8081</a><br><img src="/images/image_1748152066967.png" alt="image.png"><br><img src="/images/image_1748152067607.png" alt="image.png"></p><p><img src="/images/image_1748152075328.png" alt="image.png"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>啦啦啦啦</title>
+      <link href="/%E5%95%A6%E5%95%A6%E5%95%A6%E5%95%A6/index.html"/>
+      <url>/%E5%95%A6%E5%95%A6%E5%95%A6%E5%95%A6/index.html</url>
+      
+        <content type="html"><![CDATA[<p>3123123</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试新页面1</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A2/index%20(restored%201755269927645).html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A2/index%20(restored%201755269927645).html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试新页面</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A2/index.html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A2/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试新页面 (restored 1755270959971)</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A2%20(restored%201755270959971)/index.html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A2%20(restored%201755270959971)/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试新页面1755270921679</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A21755270921679/index.html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E6%96%B0%E9%A1%B5%E9%9D%A21755270921679/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>中国(1746413564855)</title>
+      <link href="/%E7%BE%8E%E5%9B%BD1746413564855/index.html"/>
+      <url>/%E7%BE%8E%E5%9B%BD1746413564855/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试创建页面</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E5%88%9B%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E5%88%9B%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/4324324.jpeg" alt="4324324.jpeg"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试新建页面</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A2/index.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="http://t0s78udbm.hd-bkt.clouddn.com/qiniu%E4%BA%91%E6%B5%8B%E8%AF%952.png" alt="qiniu云测试2.png"></p><p><img src="/images/04a170be-e19a-4608-9bc0-56a880cdd6bb_1746423984913.png" alt="04a170be-e19a-4608-9bc0-56a880cdd6bb_1746423984913.png"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试新建页面1755406434268</title>
+      <link href="/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A21755406434268/index.html"/>
+      <url>/%E6%B5%8B%E8%AF%95%E6%96%B0%E5%BB%BA%E9%A1%B5%E9%9D%A21755406434268/index.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://"></a><img src="https://warms-test.oss-cn-beijing.aliyuncs.com/image_1755426782870.png" alt="image_1755426782870.png"></p><p><img src="https://warms-test.oss-cn-beijing.aliyuncs.com/%E6%B5%8B%E8%AF%95/image_1755426789502.png" alt="image_1755426789502.png"></p><p><img src="https://warms-test.oss-cn-beijing.aliyuncs.com/image_1755428235051.png" alt="image_1755428235051.png"></p>]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
