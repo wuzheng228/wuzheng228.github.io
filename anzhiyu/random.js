@@ -1,3 +1,3 @@
-var posts=["2026/03/15/什么是大模型/"];function toRandomPost(){
+var posts=["2026/03/15/什么是大模型/","2026/03/15/Docker快速入门/","2026/03/15/MySQL-锁/","2026/03/15/MySQL设置事务自动提交（开启和关闭）/","2026/03/15/MySql-binlog-debus/","2026/03/15/MySql-索引/","2026/03/15/MySql死锁问题/","2026/03/15/docker-privileged/","2026/03/15/docker-run-bin-bash和-usr-sbin-init区别/","2026/03/15/docker宿主机与容器传递文件-cp-命令/","2026/03/15/多容器通信/","2026/03/15/容器配置ssh远程登录/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
